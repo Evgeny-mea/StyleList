@@ -33,12 +33,14 @@
             android:layout_height="wrap_content"
             android:layout_weight="1022"
             />
+
+
         <include
         android:id="@+id/main_enter"
         layout="@layout/fragment_enter_note"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-            android:layout_weight="1"
+        android:layout_weight="1"
         />
 
 
