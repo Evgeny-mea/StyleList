@@ -26,10 +26,6 @@
 
 
         </com.google.android.material.appbar.AppBarLayout>
-
-
-
-
         <include
             android:id="@+id/list_main"
             layout="@layout/list_notes"
