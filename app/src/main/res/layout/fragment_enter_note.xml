@@ -18,7 +18,7 @@
             android:layout_height="120dp"
 
 
-            android:text="Введите заметку..."
+            android:text="Введите заметку!!!"
             app:layout_constraintBottom_toTopOf="@id/button3"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
